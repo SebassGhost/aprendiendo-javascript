@@ -5,4 +5,4 @@ for(let numero = 5; numero <= 50; numero += 5){
     suma = suma + numero 
     console.log(numero)
 } 
-console.log(suma)
+console.log("acumulacion:", suma)
