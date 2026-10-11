@@ -1,4 +1,5 @@
-//contador para ver edades iguales o mayores a 18
+
+// contador para ver edades iguales o mayores a 18
 const edades = [12, 20, 15, 35, 17];
 let contador = 0;
 
@@ -9,3 +10,4 @@ for (let i = 0; i < edades.length; i++) {
 }
 
 console.log("Personas mayores de edad:", contador);
+
