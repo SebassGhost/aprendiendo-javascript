@@ -14,3 +14,10 @@ function contarPositivos (numeros){                 // Función que cuenta cuán
 const resultado = contarPositivos(numeros)          // Guarda el resultado que devuelve la función
 
 console.log("numeros positivos:", resultado)        // Muestra la cantidad de números positivos en la consola
+
+
+/* i: representa la posición del elemento que estamos revisando.
+
+numeros[i]: obtiene el número que se encuentra en esa posición.
+
+return contador: devuelve el total acumulado cuando termina el recorrido.*/
