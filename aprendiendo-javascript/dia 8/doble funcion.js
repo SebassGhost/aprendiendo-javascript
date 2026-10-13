@@ -1,5 +1,5 @@
 function sumar( a , b ) {
-    return a + b;               // Multiplica los dos números y devuelve el resultado
+    return a + b;               // suma los dos números y devuelve el resultado
 }
 
 function multiplicar(a, b){
